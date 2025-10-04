@@ -10,7 +10,14 @@
 
 ###
 
-<p align="left">I’m just someone who enjoys learning, creating, and figuring things out one step at a time.<br>I don’t have it all figured out yet, but I’m building my way forward slowly.<br><br>I like keeping things simple, staying curious, and growing every day — even in small ways.</p>
+<ul align="left">
+  <li>Just Jelo — figuring things out one step at a time</li>
+  <li>Still learning, still unlearning, still learning again</li>
+  <li>I like keeping things simple and organized (even if life isn’t)</li>
+  <li>I enjoy creating, breaking, and fixing — usually in that order 😅</li>
+  <li>Curiosity keeps me moving, mistakes keep me humble</li>
+  <li>Not in a rush, just building forward slowly</li>
+</ul>
 
 ###
 
