@@ -1,7 +1,7 @@
 
 ###
 
-<h2 align="left">About meee</h2>
+<h2 align="left">About me</h2>
 
 ###
 
