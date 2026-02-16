@@ -51,10 +51,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dyelo1007&show_icons=true&count_private=true&theme=github_dark" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyelo1007&layout=compact&langs_count=5&theme=github_dark" height="200" alt="languages graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dyelo1007&theme=github-dark&area=true&count_private=true" height="300" alt="activity graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dyelo1007&show_icons=true&count_private=true&theme=github_dark" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyelo1007&layout=compact&langs_count=5&theme=github_dark" height="200" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dyelo1007&theme=github-dark&area=true&count_private=true" height="300" alt="Activity Graph" />
 </div>
+
 
 
 ###
