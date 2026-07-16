@@ -13,14 +13,14 @@
   <li>Just Jelo — figuring things out one step at a time</li>
   <li>Still learning, still unlearning, still learning again</li>
   <li>I like keeping things simple and organized (even if life isn’t)</li>
-  <li>I enjoy creating, breaking, and fixing — usually in that order 😅</li>
+  <li>I enjoy creating, breaking, and fixing — usually in that order </li>
   <li>Curiosity keeps me moving, mistakes keep me humble</li>
   <li>Not in a rush, just building forward slowly</li>
 </ul>
 
 ###
 
-<h4 align="left">✨ a work in progress, just like my code</h4>
+<h4 align="left">a work in progress, just like my code</h4>
 
 ###
 
